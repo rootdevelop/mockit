@@ -6,6 +6,6 @@ public class StockServiceImpl implements StockService {
 
     @Override
     public int getPrice(Stock stock) {
-        return 100;
+        return 42;
     }
 }
